@@ -1,0 +1,21 @@
+RULE 1: COMMON EQUITY TIER 1 (CET1) CAPITAL
+CET1 capital includes:
+- Ordinary shares issued by the bank
+- Share premium (extra money paid above share face value)
+- Retained earnings (profits kept in the business)
+- Other reserves
+
+RULE 2: DEDUCTIONS FROM CET1
+You must subtract these from CET1:
+- Intangible assets (like goodwill, software)
+- Deferred tax assets
+- Losses from current year
+
+RULE 3: TIER 1 CAPITAL CALCULATION
+Tier 1 Capital = CET1 Capital + Additional Tier 1 Capital
+
+RULE 4: CAPITAL REQUIREMENTS
+Banks must maintain:
+- CET1 ratio of at least 4.5%
+- Tier 1 ratio of at least 6%
+- Total capital ratio of at least 8%
