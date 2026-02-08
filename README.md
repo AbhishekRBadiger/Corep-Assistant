@@ -22,11 +22,6 @@
 - [How It Works](#how-it-works)
 - [Example Queries](#example-queries)
 - [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [Technical Details](#technical-details)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
